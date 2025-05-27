@@ -2,7 +2,6 @@
 Predict whether a person is likely to test positive for COVID-19. Identify the most important features influencing prediction such as symptoms, underlying conditions.
 
 ## Features
-The dataset includes:
 - Demographic features (e.g., age)
 - Symptom severity
 - Underlying health conditions
